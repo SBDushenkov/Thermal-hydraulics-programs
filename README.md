@@ -1,7 +1,7 @@
 # Thermal-hydraulics-programs
 Calculation of ring thermoelectric module for freezing
 
-Ordinnary I use maple for this kind of calculations, but for this one i'd prefer use Jave for portability reasons
+Ordinary I use maple for this kind of calculations, but for this one i'd prefer use Jave for portability reasons
 
 uses:
 - "Maven" for dependencies and packaging
